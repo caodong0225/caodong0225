@@ -20,8 +20,8 @@
 
 # 📫联系我
 
-- 我的博客：http://blog.caodong0225.top/
-- Github：[caodong0225](https://github.com/vvbbnn00)
+- 我的博客：https://caodong0225.github.io/
+- Github：[caodong0225](https://github.com/caodong0225)
 
 # 📊统计卡片
 
