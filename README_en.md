@@ -1,5 +1,5 @@
 <h1 style="text-align: center;" align="center">
-  嗨 👋，我是 曹东
+  Hi 👋, I'm Dong Cao
 </h1>
 
 <p align="center">
@@ -9,27 +9,25 @@
 </p>
 
 <div style="text-align: center;" align="center">
-  简体中文 | <a href="README_en.md">English</a> 
+  English | <a href="README.md">简体中文</a> 
 </div>
 
-# 👨🏻‍💻关于我
+# 👨🏻‍💻About Me
 
-- 💬我是`曹东`（`caodong0225`），是大学牲，是小白一枚。
+- 💬I'm `Dong Cao` (`caodong0225`), a humble university student and a beginner in programming.
 
+- 🎓Currently studying at `University of Shanghai for Science and Technology`, majoring in `Computer Science and Technology`. I started my studies in `September 2022` and enjoy uploading my coursework projects to `GitHub`.
 
-- 🎓目前就读于`上海理工大学`，专业为`计算机科学与技术`，`22年9月`入学，平时喜欢把专业课上的课程作业放到`github`上来。
+- 📚Passionate about the internet industry and open-source development. I frequently share my small projects on `GitHub`.
 
+- ⭐ [My Personality](https://www.16personalities.com/profiles/infj-a/m/dh72t6ksr): INFJ-A
 
-- 📚对互联网行业充满浓厚兴趣，喜欢开源，会把自己平时开发的小项目也会开源到`github`上来
+# 📫Contact Me
 
-- ⭐ [我的性格](https://www.16personalities.com/profiles/infj-a/m/dh72t6ksr): INFJ-A
+- Blog: https://caodong0225.github.io/
+- GitHub: [caodong0225](https://github.com/caodong0225)
 
-# 📫联系我
-
-- 我的博客：https://caodong0225.github.io/
-- Github：[caodong0225](https://github.com/caodong0225)
-
-### 💬 我的博客
+### 💬 My Blog
 
 <div style="text-align: center;" align="center">
   <a href="https://caodong0225.github.io" target="_blank" style="text-decoration: none">
@@ -37,7 +35,7 @@
   </a>
 </div>
 
-# 📊统计卡片
+# 📊Stats
 
 <div align="center">
 <span>  </span>
