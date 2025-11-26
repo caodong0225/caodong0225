@@ -18,7 +18,7 @@
 
 - 🎓Currently studying at `University of Shanghai for Science and Technology`, majoring in `Computer Science and Technology`. I started my studies in `September 2022` and enjoy uploading my coursework projects to `GitHub`.
 
-- 📚Passionate about the internet industry and open-source development. I frequently share my small projects on `GitHub`.
+- 📚I am now interning in the cybersecurity industry . I frequently share my small projects on `GitHub`.
 
 - ⭐ [My Personality](https://www.16personalities.com/profiles/infj-a/m/dh72t6ksr): INFJ-A
 
